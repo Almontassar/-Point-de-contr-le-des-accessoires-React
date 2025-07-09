@@ -14,7 +14,7 @@ const players = [
     nationality: "France",
     jerseyNumber: 7,
     age: 25,
-    image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Kylian_Mbapp%C3%A9_2019.jpg"
+    image: "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/318b/live/7f095900-4f37-11f0-99c3-e7388a7b1bed.jpg"
   },
   {
     name: "Cristiano Ronaldo",
@@ -30,7 +30,7 @@ const players = [
     nationality: "Belgium",
     jerseyNumber: 17,
     age: 32,
-    image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Kevin_De_Bruyne_2021.jpg"
+    image: "https://i0.wp.com/thesefootballtimes.co/wp-content/uploads/2017/11/de-bruyne.jpg?fit=1600%2C1054&ssl=1"
   }
 ];
 
